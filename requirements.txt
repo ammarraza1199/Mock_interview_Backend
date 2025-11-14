@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+pypdf
+google-generativeai
+python-dotenv
+openai
+resend
+python-docx
+pymongo[srv]
+passlib==1.7.4
+python-jose[cryptography]
+cryptography
+bcrypt==3.2.2
+assemblyai
