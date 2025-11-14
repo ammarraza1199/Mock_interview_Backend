@@ -88,23 +88,7 @@ app = FastAPI()
 
 
 
-origins = [
-
-
-
-    "http://localhost:8080",
-
-
-
-    "http://localhost:5173",  # I'm adding this as it is a common port for Vite dev server
-
-
-
-    "http://localhost:8081",
-
-
-
-]
+origins = ["*"]
 
 
 
